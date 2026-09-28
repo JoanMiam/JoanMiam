@@ -1,6 +1,6 @@
 Hola, soy César Miam!
 
-Soy un entusiasta de la Ingeniería de Software, con un enfoque especial en el desarrollo backend y la programación orientada a objetos. Actualmente estoy aprendiendo a crear aplicaciones móviles utilizando Flutter y explorando el fascinante mundo de la inteligencia artificial 🤖.
+Soy un entusiasta de la Ingeniería de Software, con un enfoque especial en el desarrollo backend y la programación orientada a objetos. Actualmente estoy aprendiendo a crear aplicaciones móviles utilizando Flutter y explorando el fascinante mundo de la inteligencia artificial .
 
 Mis intereses se centran en crear soluciones innovadoras y en constante aprendizaje de nuevas tecnologías. Algunas de las tecnologías y lenguajes que más disfruto utilizar son:
 
